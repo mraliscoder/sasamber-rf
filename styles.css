@@ -12,7 +12,7 @@ html, body {
 
 
 .spin {
-    animation: rotate 2s linear infinite;
+    animation: rotate 12s linear infinite;
 }
 
 #visualizer {
@@ -28,7 +28,7 @@ html, body {
 #pulseImage {
     width: 100px;
     height: 100px;
-    transition: transform 0.1s ease;
+    transition: transform 0.07s ease;
 }
 
 #overlay {
